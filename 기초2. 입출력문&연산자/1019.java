@@ -14,3 +14,6 @@ public class Main {
 	}
 
 }
+
+
+//Integer.parseInt 문자열이 아닌 정수로 변환해주는 명령어 (String타입의 숫자를 int타입으로 변환)
