@@ -13,4 +13,4 @@ public class Main {
 }
 
 
-//Integer.toHexString(int); : 10진수 >> 8진수 변환
+//Integer.toHexString(int); : 10진수 >> 16진수 변환
